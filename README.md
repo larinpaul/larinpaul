@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @larinpaul
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript, React,
-- 💞️ I’m looking to collaborate on beginner projects.
+- 🌱 I’m currently learning JavaScript and React
+- 💞️ I’m looking to collaborate on beginner projects
 <!-- - 📫 How to reach me  -->
 
 <!---
