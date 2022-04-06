@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @larinpaul
+- 👋 Hi, I’m Pavel
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on beginner projects
