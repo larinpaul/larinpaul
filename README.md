@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pavel
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on beginner projects
+- 💞️ I’m looking to collaborate on projects
 <!-- - 📫 How to reach me  -->
 
 <!---
