@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pavel
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Go
+- 👀 A polyglot developer with experience in Mobile and Web Development
+- 🌱 I’m currently interested in making projects with Golang, Python and TypeScript
 - 💞️ I’m looking to collaborate on projects
 <!-- - 📫 How to reach me  -->
 
