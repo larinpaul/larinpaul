@@ -5,7 +5,7 @@
 <!-- - 📫 How to reach me  -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larinpaul)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=calm&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=larinpaul&theme=calm&show_icons=true)
 
 <!---
 larinpaul/larinpaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
