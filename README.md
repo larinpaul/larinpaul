@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pavel
-- 👀 A polyglot developer with experience in Mobile and Web Development
+- 👀 A polyglot developer with experience in Backend Development
 - 🌱 I’m currently interested in making projects with Java and Spring
 - 💞️ I’m looking to collaborate on projects
 <!-- - 📫 How to reach me  -->
