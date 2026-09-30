@@ -8,6 +8,7 @@
 
 ![Your Top Languages](https://vercel.app)
 
+![Top Languages](http://localhost:9000/api/top-langs?username=larinpaul)
 
 <!---
 larinpaul/larinpaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
